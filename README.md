@@ -1,3 +1,62 @@
-Canvas: - 1180 × 610 - Rounded corners - Modern spacing - Perfect alignment Split into two sections. LEFT SIDE Occupies around 38%. Contains: • Large animated ASCII portrait. The ASCII should: - reveal line-by-line - have typing animation - include scanline effect - glowing gradient - cursor blink - cyber terminal feeling ASCII uses gradient colors instead of plain text. Gradient slowly shifts between colors. ASCII should slightly float. RIGHT SIDE Professional terminal window. Include: Greeting Hi 👋 I'm GANESHKUMAR Animated typing text Example: UX/UI designer Open Source  AI Enthusiast Each phrase types character-by-character. Below that: Location Education Current Focus Portfolio Email Each item reveals sequentially. Then: Skills section Display glowing pills. Examples React Next.js Node.js TypeScript Tailwind Python Docker Postgres AWS Git Figma Hover effect: pill slightly enlarges glow increases Bottom: Social icons GitHub LinkedIn Twitter Portfolio Minimal glowing icons. ======================== ANIMATIONS ======================== Everything must animate. ASCII Reveal line-by-line Gradient moves continuously Typing cursor blinks Terminal Typing animation Sequential reveal Cursor blinking Background Floating radial gradients Noise texture Moving scanline Tiny animated particles Glass reflection Border shimmer Subtle floating glow Nothing should feel static. ======================== VISUAL STYLE ======================== Glassmorphism Background blur Soft reflections Rounded corners Thin glowing borders Modern premium UI Depth using shadows No flat colors. Everything should feel like Apple + Linear + Vercel. ======================== DARK MODE ======================== Background #030712 Panels #0F172A Border rgba(255,255,255,.08) Text #F8FAFC Muted text #94A3B8 Accent Gradient #7C3AED ↓ #22D3EE ↓ #10B981 ASCII Animated cyan-purple gradient. Glow cyan + violet. Background glow Blue Purple Emerald Very subtle. ======================== LIGHT MODE ======================== Background #FFFFFF Panels #F8FAFC Border rgba(15,23,42,.08) Primary text #0F172A Secondary text #475569 Accent Gradient #2563EB ↓ #06B6D4 ↓ #10B981 ASCII Blue → Cyan gradient. Glow should be softer than dark mode. Background Very subtle radial gradients. Soft shadows. Glass effect remains. ======================== SVG REQUIREMENTS ============Use ONLY linearGradient radialGradient filter mask clipPath animate animateTransform animateMotion No JavaScript. Everything must be SMIL animations. GitHub compatible. ======================== MICRO ANIMATIONS ======================== ✔ Border shimmer ✔ Gradient movement ✔ Floating particles ✔ Typing cursor ✔ Scanline sweep ✔ Glow pulse ✔ Sequential reveal ✔ Floating ASCII ✔ Animated gradients ✔ Noise overlay ✔ Glass reflections ======================== QUALITY ======================== The SVG should look like a $500 GitHub profile header. Extremely polished. Minimal. Elegant. Modern. Premium. Pixel-perfect. No cartoon style. No unnecessary colors. Everything should feel like GitHub + Vercel + Linear + Apple Design. Generate TWO separate SVG files: 1. dark.svg 2. light.svg Both should have identical layout and animations while only changing the color palette to suit dark and light GitHub themes. 
+<h1 align="center">Hi there 👋, I'm Ganeshkumar</h1>
+<h3 align="center">UI/UX Designer | Frontend Developer | Figma Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Designing+delightful+user+experiences;Turning+Figma+into+real+products;Wireframes+%E2%9E%9C+Prototypes+%E2%9E%9C+Pixel-perfect+UI;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
 
+---
+
+### 🧑‍🎨 About Me
+- 🎨 UI/UX Designer with a strong eye for clean, usable design
+- 🛠️ Skilled in **Figma** for wireframing, prototyping & design systems
+- 💻 Build responsive interfaces with **HTML, CSS, JavaScript & Bootstrap**
+- 🚀 Love converting ideas into working products — from concept to code
+- 🌱 Currently exploring new frontend frameworks & design trends
+
+---
+
+### 🧰 Tech & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="60%"/>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ganeshkumar38" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
+  </a>
+  <a href="mailto:" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6C63FF&style=flat" alt="profile views"/>
+</p>
+  

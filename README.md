@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/ganeshkumar38" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://https://ganeshkumar0626.github.io/portfolio-/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
   </a>
   <a href="mailto:" target="_blank">

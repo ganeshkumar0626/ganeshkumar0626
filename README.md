@@ -11,7 +11,6 @@
 - 🎨 UI/UX Designer with a strong eye for clean, usable design
 - 🛠️ Skilled in **Figma** for wireframing, prototyping & design systems
 - 💻 Build responsive interfaces with **HTML, CSS, JavaScript & Bootstrap**
-- 🚀 Love converting ideas into working products — from concept to code
 - 🌱 Currently exploring new frontend frameworks & design trends
 
 ---
